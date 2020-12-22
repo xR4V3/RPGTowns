@@ -1,0 +1,5 @@
+enable: true
+msgNon-perm: "У вас нет прав!"
+msgNon-towns: "Ваша группа не владеет ни одной крепостью!"
+msgNon-party: "Для начала вступите в группу!"
+msgTeleport: "Вы были перемещены в %town%!"

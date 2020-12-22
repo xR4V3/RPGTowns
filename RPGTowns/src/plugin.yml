@@ -1,0 +1,6 @@
+name: RPGTowns
+main: koleanbox.towns.Towns
+version: 1.0.0
+authors: [KoleanBox]
+commands:
+  towns:
